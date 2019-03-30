@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" android:padding="10dp">
+
+
+
+    <TextView
+        android:id="@+id/aut"
+        android:layout_below="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/delius_swash_caps"
+        android:textSize="15dp"
+        android:padding="10dp"
+        android:text="Camera have no Auto Focus"
+        android:textColor="#ca2128" />
+
+    <TextView
+        android:id="@+id/autod"
+        android:layout_below="@+id/aut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="If your phone does not have auto focus then the written text will not be recognized properly. In that case its batter to type the problem using out edit problem module"/>
+
+    <TextView
+        android:id="@+id/busu"
+        android:layout_below="@+id/autod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/delius_swash_caps"
+        android:textSize="15dp"
+        android:padding="10dp"
+        android:text="Camera is busy"
+        android:textColor="#ca2128"
+         />
+
+    <TextView
+        android:id="@+id/busy"
+        android:layout_below="@+id/busu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="@string/CameraIsBusy"/>
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

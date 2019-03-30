@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="150dp">
+
+    <ImageView
+        android:layout_width="95dp"
+        android:layout_height="95dp"
+        android:padding="10dp"
+        android:src="@drawable/logo"/>
+
+    <TextView
+        android:textSize="25sp"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Riyaazi"
+        />
+
+</LinearLayout>

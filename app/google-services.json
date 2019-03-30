@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "318079782567",
+    "firebase_url": "https://mlforocr.firebaseio.com",
+    "project_id": "mlforocr",
+    "storage_bucket": "mlforocr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318079782567:android:d28c8f900e184402",
+        "android_client_info": {
+          "package_name": "a58bhabscsgcs14.gabrial.gcu.edu.riyaazi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318079782567-ooh61krc9sdl8nmdlvviikcc92o4nv94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7gMcabk3zR_mEortXIQEp8Q3I86sxys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

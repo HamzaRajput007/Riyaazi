@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Riyaazi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Navigation Drawer Open</string>
+    <string name="navigation_drawer_close">Navigation Drawer Close</string>
+    <string name="CameraIsBusy">This problem offten occurs in android version 5.1 Lolipop, 6.0 marshmallow, 7.0 Nougat and some other android devices .
+
+\n\nSolutions:
+	\n\n\t1-Restart your smartphone:Android Operating system will re-initialize the resources and hopefully then you will get the camera resource free for your application.
+		You may do it multiple times until the error fixed.
+
+	\n\n2-Factory reset your device:
+	You may need to brows the tutorials about how to Factory reset your andoid smartphone.
+
+	\n\n\t3-Contact your manufacturer:
+		If the problem presistes then the last and only option
+		for you to contact your manufacturer. </string>
+    <string name="JunkSolutionForResultFragment">
+
+    </string>
+    <string name="HowToUse">How to use :\n\t Just write the problem statement on a blank paper and capture it through camera and its done. !Hurray</string>
+    <string name="Backspace"><![CDATA[<-]]></string>
+</resources>
